@@ -1,5 +1,5 @@
 # :heavy_check_mark: WatchMe
-:tada: Projeto utilizado como Desafio II do Capitulo I do programa Ignite da Rocketseat.
+:tada: Projeto utilizado como Desafio II do Capitulo I do programa Ignite da Rocketseat
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/11893798/137348235-c66f81ab-e643-4db4-b3af-fc7a4d12b7ce.png" width="800px" />
